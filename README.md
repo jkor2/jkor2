@@ -9,7 +9,7 @@
 
 - 📫 How to reach me: korobelj@oregonstate.edu
 
--⚡ Fun fact: My jounrey into coding started during my first undergradute degree, Psychology!
+-⚡ Fun fact: My jounrey into devlopment started during my first undergradute degree, Psychology!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
