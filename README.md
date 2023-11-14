@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Jake!</h1>
 <h3 align="center">A passionate computer science student, studying at Oregon State University</h3>
 
-- 🔭 I’m currently working on [NewsRoom](https://github.com/jkor2/NewsApp) & [Python Predictive Analysis with Tkinter GUI](https://github.com/jkor2/Python-Stock_Data-Projext)
+- 🔭 I’m currently working on: [NewsRoom](https://github.com/jkor2/NewsApp) & [Python Predictive Analysis with Tkinter GUI](https://github.com/jkor2/Python-Stock_Data-Projext)
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning: **Java**
 
-- 👀 Check out some of my projects [Here](https://github.com/jkor2/projects)
+- 👀 Check out some of my projects: [Here](https://github.com/jkor2/projects)
 
 - 📫 How to reach me: korobelj@oregonstate.edu
 
--  ⚡ Fun fact: My passion of coding and devlopment started during Human Factors Psychology class during my first undergradute degree, Psychology!
+-  ⚡ Fun fact: My passion for coding began in a Human Factors Psychology class during my first undergraduate degree in Psychology! 🚀
 
 
 <h3 align="left">Connect with me:</h3>
