@@ -11,6 +11,7 @@
 
 -⚡ Fun fact: My jounrey into devlopment started during my first undergradute degree, Psychology!
 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/jacobkorobellis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jacobkorobellis" height="30" width="40" /></a>
