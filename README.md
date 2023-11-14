@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Jake!</h1>
 <h3 align="center">A passionate computer science student, studying at Oregon State University</h3>
 
-- 🔭 I’m currently working on [Project1](google.com)
+- 🔭 I’m currently working on [NewsRoom](google.com) & [Python Predictive Analysis with Tkinter GUI](google.com)
 
 - 🌱 I’m currently learning **Java**
 
-- 👯 I’m looking to collaborate on [Project2](google.com)
+- 📫 How to reach me: korobelj@oregonstate.edu
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
