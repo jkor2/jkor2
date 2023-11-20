@@ -11,6 +11,10 @@
 
 -  ⚡ Fun fact: My passion for coding began in a Human Factors Psychology class during my first undergraduate degree in Psychology! 🚀
 
+<h3 align="left">Check out my portfolio:</h3>
+<p align="left">
+<a href="https://jacobkorobellis.vercel.app/" target="blank">HERE</a>
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
