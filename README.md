@@ -4,13 +4,13 @@ I’m currently working on: [Python Predictive Analysis with Tkinter GUI](https:
 
 I’m currently learning: **Java**
 
-- 👀 Check out some of my projects: [Here](https://github.com/jkor2/projects)
+Check out some of my projects: [Here](https://github.com/jkor2/projects)
 
-- 👀 NewsRoom Version 1.00 is out, check it out [NewsRoom](https://github.com/jkor2/NewsApp)
+NewsRoom Version 1.00 is out, check it out [NewsRoom](https://github.com/jkor2/NewsApp)
 
-- 📫 How to reach me: korobelj@oregonstate.edu
+How to reach me: korobelj@oregonstate.edu
 
--  ⚡ Fun fact: My passion for coding began in a Human Factors Psychology class during my first undergraduate degree in Psychology! 🚀
+Fun fact: My passion for coding began in a Human Factors Psychology class during my first undergraduate degree in Psychology! 🚀
 
 <h3 align="left">Check out my portfolio:</h3>
 <p align="left">
