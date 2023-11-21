@@ -5,6 +5,7 @@
 <h4 align="left">My name is Jake! <br>Currently I am studying Computer Science at Oregon State University<br><br>I'm currently learning Java and C++<br>I'm Current working on <a href="https://github.com/jkor2/facial_recog/tree/main"> Optimal Haircut </a> & <a href="https://github.com/jkor2/Python-Stock_Data-Projext">Python Predictive Stock Analysis</a> <br>You can check out some of my projects <a href="https://github.com/jkor2/projects"> here </a><br>You can check out my portfolio <a href="https://jacobkorobellis.vercel.app/">here</a></h4>
 
 <h4>Most recent published project: <a href="https://newsroom-live.netlify.app/">NewsRoom</a></h4>
+<h5> MERN Stack News Provider in Financial Markets</h5>
 
 ###
 
