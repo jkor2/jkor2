@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="left">My name is Jake! <br>Currently I am studying Computer Science at Oregon State University<br><br>-  I'm currently learning Java and C++<br>-  I'm Current working on ...<br>-  You can check out some of my projects ....<br>- You can check out my portfolio ....</h4>
+<h4 align="left">My name is Jake! <br>Currently I am studying Computer Science at Oregon State University<br><br>-  I'm currently learning Java and C++<br>-  I'm Current working on [Optimal Haircut](https://github.com/jkor2/facial_recog/tree/main) & [Python Predictive Stock Analysis](https://github.com/jkor2/Python-Stock_Data-Projext)<br>-  You can check out some of my projects ....<br>- You can check out my portfolio ....</h4>
 
 ###
 
