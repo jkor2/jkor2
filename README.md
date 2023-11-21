@@ -77,9 +77,3 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=jkor2&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/jkor2/jkor2/output/snake.svg" alt="Snake animation" />
-
-###
