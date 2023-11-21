@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Jake!</h1>
 <h3 align="center">A passionate computer science student, studying at Oregon State University</h3>
 
-- 🔭 I’m currently working on: [NewsRoom](https://github.com/jkor2/NewsApp) & [Python Predictive Analysis with Tkinter GUI](https://github.com/jkor2/Python-Stock_Data-Projext)
+- 🔭 I’m currently working on: [Python Predictive Analysis with Tkinter GUI](https://github.com/jkor2/Python-Stock_Data-Projext) & [Optomize my Haircut](https://github.com/jkor2/facial_recog/tree/main) 
 
 - 🌱 I’m currently learning: **Java**
 
 - 👀 Check out some of my projects: [Here](https://github.com/jkor2/projects)
+
+- 👀 NewsRoom Version 1.00 is out, check it out [NewsRoom](https://github.com/jkor2/NewsApp)
 
 - 📫 How to reach me: korobelj@oregonstate.edu
 
