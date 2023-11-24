@@ -1,4 +1,4 @@
-<h1 align="center">hey everyone!</h1>
+<h1 align="center">hey!</h1>
 
 ###
 
