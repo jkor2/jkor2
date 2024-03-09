@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="left">My name is Jake! <br>Currently I am studying Computer Science at Oregon State University<br><br>I'm currently learning Java and C++<br><br>You can check out some of my projects <a href="https://github.com/jkor2/projects"> here </a><br>You can check out my portfolio <a href="https://jacobkorobellis.vercel.app/">here</a></h4>
+<h4 align="left">My name is Jake! <br>Currently I am studying Computer Science at Oregon State University<br><br>You can check out some of my projects <a href="https://github.com/jkor2/projects"> here </a><br>You can check out my portfolio <a href="https://jacobkorobellis.vercel.app/">here</a></h4>
 
 <h4>Most recent published project: <a href="https://newsroom-live.netlify.app/">NewsRoom</a> <br><p> MERN Stack - News & data provider of stock and crypto markets</p> </h4>
 
