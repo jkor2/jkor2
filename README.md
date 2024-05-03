@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="left">Hey everyone, my name is Jake! You have reached my Personal github. <br/> <br/>A littel bit about me:<br>Currently I am studying at Oregon State University <br> 
+<h4 align="left">Hey everyone, my name is Jake! You have reached my Personal github. <br/> <br/>A littel bit about me:<br>Currently I am continuing my studies at Oregon State University <br> 
 I enjoy automating everyday tasks in both my professional and personal life to enhance accuracy, simplify processes, and increase efficiency.<br><br>You can check out some of my projects <a href="https://github.com/jkor2/projects"> here </a><br>You can check out my portfolio <a href="https://jacobkorobellis.vercel.app/">here</a> </h4>
 
 
