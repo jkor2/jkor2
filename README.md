@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="left">Hey everyone, my name is Jake! You have reached my Personal github. <br>A littel bit about me:<br>Currently I am studying at Oregon State University<br><br>You can check out some of my projects <a href="https://github.com/jkor2/projects"> here </a><br>You can check out my portfolio <a href="https://jacobkorobellis.vercel.app/">here</a></h4>
+<h4 align="left">Hey everyone, my name is Jake! You have reached my Personal github. <br/> <br/>A littel bit about me:<br>Currently I am studying at Oregon State University<br><br>You can check out some of my projects <a href="https://github.com/jkor2/projects"> here </a><br>You can check out my portfolio <a href="https://jacobkorobellis.vercel.app/">here</a></h4>
 
 
 ###
